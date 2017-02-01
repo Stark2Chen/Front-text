@@ -10,6 +10,10 @@
 ## 项目结构
 
 /
-/lib
+
+/lib #引用的其他框架
+
 /lib/react
+
 /lib/bootstrap
+
